@@ -1,0 +1,9 @@
+
+#include <iostream>
+using namespace std;int main(){int ReplacementFor_j=(0x1ec0+715-0x218b);for(
+ReplacementFor_j=(0xb59+4491-0x1ce1);ReplacementFor_j<(0x1103+1836-0x1824);
+ReplacementFor_j++){cout<<"\x6a\x20\x3d\x20"<<ReplacementFor_j<<
+"\x20\x73\x71\x75\x61\x72\x65\x64\x20\x3d\x20"<<ReplacementFor_j*
+ReplacementFor_j<<endl;}cout<<
+"\n" "\x50\x72\x69\x6e\x74\x65\x64\x20\x62\x79\x3a\x20\x44\x69\x6c\x6f\x6e\x20\x43\x6f\x77\x6c\x69\x6e\x67\x20\x2d\x20\x31\x32\x33\x34\x35\x36\x37\x38" "\n"
+;system("\x70\x61\x75\x73\x65");return(0x1cc8+116-0x1d3c);}
